@@ -10,8 +10,6 @@ body {
     background: #f5f7f8;
   }
 
-  
-
   .chatbot-toggler {
     position: fixed;
     bottom: 40px;
@@ -120,7 +118,7 @@ body {
     text-align: center;
     line-height: 32px;
     align-self: flex-end;
-    background: #724ae8;
+    background: #04020a;
     border-radius: 4px;
     margin: 0 10px 7px 0;
   }
@@ -131,7 +129,7 @@ body {
     max-width: 75%;
     color: #fff;
     font-size: 0.95rem;
-    background: #724ae8;
+    background: #04020a;
   }
   .chatbox .incoming p {
     border-radius: 10px 10px 10px 0;
